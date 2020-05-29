@@ -1,0 +1,30 @@
+{
+  "name": "eat-the-burger",
+  "version": "1.0.0",
+  "description": "Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wronghandedryan/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "ryan o'boyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wronghandedryan/burger/issues"
+  },
+  "homepage": "https://github.com/wronghandedryan/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
